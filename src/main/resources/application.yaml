@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: sample-for-openshift-cicd
+
+server:
+  port: 8080
+  shutdown: graceful
