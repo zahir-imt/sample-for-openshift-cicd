@@ -1,1 +1,2 @@
 # sample-for-openshift-cicd
+#
